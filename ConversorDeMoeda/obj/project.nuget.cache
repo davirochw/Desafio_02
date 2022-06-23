@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1WOUzYAmp6Ze+VCILJh2ygEEsGzobsBab5iUEkv0XPbDxX0O5wD1ZNMZ/OQRghSSrS9O/Y7ZfEpHMo4s0hUwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davi-\\Documents\\workspace\\Backend C#\\Desafio2\\ConversorDeMoeda\\ConversorDeMoeda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davi-\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\davi-\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\davi-\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\davi-\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\davi-\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\davi-\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
